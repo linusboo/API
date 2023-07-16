@@ -10,4 +10,8 @@ class DemoApplicationTests {
 	void contextLoads() {
 	}
 
+	void bark() {
+		System.out.println("Woof");
+	}
+
 }
